@@ -11,9 +11,9 @@ Make the red box have a speed of 180 pixels/second
 Control the blue box with the arrow keys.
 Control the red box with the ASDW keys.
 Do not let the boxes go off of the screen.
-Incorporate different sounds when either ball hits the edge of the screen.
+Incorporate different sounds when either box hits the edge of the screen.
 Have two people play this TAG game at the same time.
-The Red box is always "it" and needs to try to catch the blue box.
+The red box is always "it" and needs to try to catch the blue box.
 When you're done Pull Request this test and comment that it's ready to be checked!
 
 '''
