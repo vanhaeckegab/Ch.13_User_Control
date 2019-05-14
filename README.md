@@ -5,6 +5,6 @@ In this chapter you will be learning about how to let a user interact with your 
 
 <h3>Jedi Tasks</h3>
 <ol>
-  <li>Take Home Test</li>
+  <li>Jedi Training</li>
   <li>User Control Project</li>
   </ol>
