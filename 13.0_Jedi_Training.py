@@ -13,6 +13,6 @@ Do not let the boxes go off of the screen.
 Incorporate different sounds when either box hits the edge of the screen.
 Have two people play this TAG game at the same time.
 The red box is always "it" and needs to try to catch the blue box.
-When you're done Pull Request this activity and comment that it's ready to be checked!
+When you're done demonstrate to your instructor!
 
 '''
