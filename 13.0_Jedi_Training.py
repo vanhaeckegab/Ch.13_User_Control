@@ -8,7 +8,7 @@ Instantiate two 30px by 30px boxes. One red and one blue.
 Make the blue box have a speed of 240 pixels/second
 Make the red box have a speed of 180 pixels/second
 Control the blue box with the arrow keys.
-Control the red box with the ASDW keys.
+Control the red box with the WASD keys.
 Do not let the boxes go off of the screen.
 Incorporate different sounds when either box hits the edge of the screen.
 Have two people play this TAG game at the same time.
