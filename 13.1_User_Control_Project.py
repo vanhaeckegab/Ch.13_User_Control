@@ -57,10 +57,8 @@ class Game:
 
     def green_hit(self):
         self.gx += SW
-        arcade.Sound.play(self.gs)
-        if arcade.Sound.is_complete(self.gs, arcade.play_sound(self.gs)):
-            self.gx -= SW
-            print("1")
+        arcade.play_sound(self.gs)
+        self.gx -= SW
 
     def red_hit(self):
         self.rx += SW
